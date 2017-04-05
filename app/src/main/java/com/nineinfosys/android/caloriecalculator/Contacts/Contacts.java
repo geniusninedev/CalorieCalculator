@@ -1,4 +1,4 @@
-package com.nineinfosys.android.caloriecalculator.Login;
+package com.nineinfosys.android.caloriecalculator.Contacts;
 
 /**
  * Created by Dev on 13-03-2017.
